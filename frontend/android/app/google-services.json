@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "323966944582",
+    "project_id": "upwork-b2267",
+    "storage_bucket": "upwork-b2267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323966944582:android:a39afc0626ce4197b85147",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323966944582-rp3c54k44qb7r4l77a74gg0jd6vflm8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frontend",
+            "certificate_hash": "7cf06e1c50059762f3c7e65e1b5e2a93de5d4413"
+          }
+        },
+        {
+          "client_id": "323966944582-g79jjnt0likqfpivgj5m34dbbbh697p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChOUrilZ8EsRalIUEKnjS2Q6IQbA9qpuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323966944582-c14bgeifmc4928m6quffq8a4s83kafdo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323966944582-8rcser7al74ikh7jcgm0ug36ecs6ojrg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boredesign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
